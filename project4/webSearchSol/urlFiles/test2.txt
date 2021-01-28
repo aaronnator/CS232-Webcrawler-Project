@@ -1,0 +1,3 @@
+http://www.yahoo.com 7
+http://www.cnn.com 8
+http://www.ipfw.edu 12
